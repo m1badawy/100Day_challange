@@ -4,7 +4,7 @@ body {
     justify-content: center;
     align-items: center;
     margin: 0;
-    background-color: #f0f0f0;
+    background-color: #eff7da;
 }
 
 .container {
@@ -12,6 +12,10 @@ body {
     max-width: 100%;
 }
 
+h1{
+    color: #f92f61e7;
+    font-family: caveat;
+}
 
 .grid {
     display: grid;
